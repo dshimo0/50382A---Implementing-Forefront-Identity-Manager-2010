@@ -14,7 +14,7 @@ After completing this course, students will be able to:
 - Automate run cycles.
 - Handle sets, simple workflows, and management policy rules (MPRs).
 
-Learning Resources
+###### Learning Resources:
 **Published on: June 14, 2010**
 
 ## **Introducing Forefront Identity Manager 2010**
